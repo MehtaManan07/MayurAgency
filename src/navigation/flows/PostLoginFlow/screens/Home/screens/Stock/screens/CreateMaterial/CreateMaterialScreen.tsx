@@ -131,7 +131,7 @@ const MaterialScreen = ({ navigation, route }: Props) => {
             />
           </View>
           <View style={styles.rightInput}>
-            <StyledText variant="b2-m">Total units</StyledText>
+            <StyledText variant="b1-m">Total units</StyledText>
             <TextInput
               keyboardType="numeric"
               placeholder="11"

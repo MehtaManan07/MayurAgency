@@ -67,7 +67,7 @@ const textVariants = {
   'b1-m': {
     fontSize: 14,
     fontFamily: GTMaruFont.Medium,
-    letterSpacing: 0,
+    letterSpacing: 1,
     lineHeight: 19,
   },
   b1: {
@@ -121,4 +121,5 @@ const textVariants = {
   },
 } as const satisfies Record<string, Typeface>;
 
-export { textVariants, GTMaruFont, GTMaruFontWeight, Typeface };
+export { textVariants, GTMaruFont };
+export type { GTMaruFontWeight, Typeface };

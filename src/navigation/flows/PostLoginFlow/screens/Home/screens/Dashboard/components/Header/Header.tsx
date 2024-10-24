@@ -6,7 +6,7 @@ import { colors, dimensions } from '@foundation';
 const Header = () => {
   return (
     <View style={styles.wrapper}>
-      <OutlinedText>CRAFTO</OutlinedText>
+      <OutlinedText variant="b1-m">CRAFTO</OutlinedText>
       <BellIcon color={colors.common.black} size={dimensions[6]} />
     </View>
   );

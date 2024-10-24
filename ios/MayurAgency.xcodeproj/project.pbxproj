@@ -14,13 +14,13 @@
 		13B07FC11A68108700A75B9A /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 13B07FB71A68108700A75B9A /* main.m */; };
 		7699B88040F8A987B510C191 /* libPods-MayurAgency-MayurAgencyTests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 19F6CBCC0A4E27FBF8BF4A61 /* libPods-MayurAgency-MayurAgencyTests.a */; };
 		81AB9BB82411601600AC10FF /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */; };
-		5644F3577AB74A5AA4465FB2 /* GT-Maru-Medium-Oblique.otf in Resources */ = {isa = PBXBuildFile; fileRef = 018CB3D4F0A645B0920EE96B /* GT-Maru-Medium-Oblique.otf */; };
-		42D2F7755CA944EF8D89B508 /* GTMaru-Black.otf in Resources */ = {isa = PBXBuildFile; fileRef = 6C2D9D7F5A3D4E9CA494953C /* GTMaru-Black.otf */; };
-		8BFE71FC746B4B658EB40FB2 /* GTMaru-Bold.otf in Resources */ = {isa = PBXBuildFile; fileRef = A8CC142C3B5B499EAE3CC473 /* GTMaru-Bold.otf */; };
-		DE0B23197ED14EB78B6307A5 /* GTMaru-Medium.otf in Resources */ = {isa = PBXBuildFile; fileRef = 21E25928D32A4087AB64FB32 /* GTMaru-Medium.otf */; };
-		B1E4033789EA43A9949C03DE /* GTMaru-Regular.otf in Resources */ = {isa = PBXBuildFile; fileRef = 083030E17E4B49ECB44D59EF /* GTMaru-Regular.otf */; };
-		3AE49FEA8DF541A0AFA5FF28 /* BonaNova-Bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 90F96369F7384C2EA65934C7 /* BonaNova-Bold.ttf */; };
-		4874512E256E4D03960CA7AD /* BonaNova-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 17B6F38E1DA14DDE8299A5C8 /* BonaNova-Regular.ttf */; };
+		4B6B588DDD6B423EA9B938F3 /* GT-Maru-Medium-Oblique.otf in Resources */ = {isa = PBXBuildFile; fileRef = 869645136E474EA98A93DBDD /* GT-Maru-Medium-Oblique.otf */; };
+		C1E1A7A48637425AAAA1DAB0 /* GTMaru-Black.otf in Resources */ = {isa = PBXBuildFile; fileRef = F74639F22D4E443D992C84C8 /* GTMaru-Black.otf */; };
+		A60F29063B1446A3844C25D2 /* GTMaru-Bold.otf in Resources */ = {isa = PBXBuildFile; fileRef = A51E4021345944A8A78BCF14 /* GTMaru-Bold.otf */; };
+		D9B74707DBE642D68BA6B087 /* GTMaru-Medium.otf in Resources */ = {isa = PBXBuildFile; fileRef = ABA535329B88476BB3E15C61 /* GTMaru-Medium.otf */; };
+		02B1FC82BF754D37B0DD8D79 /* BonaNova-Bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 8CDAA394791C497484922446 /* BonaNova-Bold.ttf */; };
+		AF82177857074705BE4F9812 /* BonaNova-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = DAC42F080F1A4034BCE24F18 /* BonaNova-Regular.ttf */; };
+		2658692FB9BC478FBB406947 /* GTMaru-Regular.otf in Resources */ = {isa = PBXBuildFile; fileRef = 2C6CD8A7621D482E9FF4625D /* GTMaru-Regular.otf */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -52,13 +52,13 @@
 		81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; name = LaunchScreen.storyboard; path = MayurAgency/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		89C6BE57DB24E9ADA2F236DE /* Pods-MayurAgency-MayurAgencyTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-MayurAgency-MayurAgencyTests.release.xcconfig"; path = "Target Support Files/Pods-MayurAgency-MayurAgencyTests/Pods-MayurAgency-MayurAgencyTests.release.xcconfig"; sourceTree = "<group>"; };
 		ED297162215061F000B7C4FE /* JavaScriptCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = JavaScriptCore.framework; path = System/Library/Frameworks/JavaScriptCore.framework; sourceTree = SDKROOT; };
-		018CB3D4F0A645B0920EE96B /* GT-Maru-Medium-Oblique.otf */ = {isa = PBXFileReference; name = "GT-Maru-Medium-Oblique.otf"; path = "../src/assets/fonts/GT-Maru-Medium-Oblique.otf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
-		6C2D9D7F5A3D4E9CA494953C /* GTMaru-Black.otf */ = {isa = PBXFileReference; name = "GTMaru-Black.otf"; path = "../src/assets/fonts/GTMaru-Black.otf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
-		A8CC142C3B5B499EAE3CC473 /* GTMaru-Bold.otf */ = {isa = PBXFileReference; name = "GTMaru-Bold.otf"; path = "../src/assets/fonts/GTMaru-Bold.otf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
-		21E25928D32A4087AB64FB32 /* GTMaru-Medium.otf */ = {isa = PBXFileReference; name = "GTMaru-Medium.otf"; path = "../src/assets/fonts/GTMaru-Medium.otf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
-		083030E17E4B49ECB44D59EF /* GTMaru-Regular.otf */ = {isa = PBXFileReference; name = "GTMaru-Regular.otf"; path = "../src/assets/fonts/GTMaru-Regular.otf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
-		90F96369F7384C2EA65934C7 /* BonaNova-Bold.ttf */ = {isa = PBXFileReference; name = "BonaNova-Bold.ttf"; path = "../src/assets/fonts/BonaNova-Bold.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
-		17B6F38E1DA14DDE8299A5C8 /* BonaNova-Regular.ttf */ = {isa = PBXFileReference; name = "BonaNova-Regular.ttf"; path = "../src/assets/fonts/BonaNova-Regular.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		869645136E474EA98A93DBDD /* GT-Maru-Medium-Oblique.otf */ = {isa = PBXFileReference; name = "GT-Maru-Medium-Oblique.otf"; path = "../assets/fonts/GT-Maru-Medium-Oblique.otf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		F74639F22D4E443D992C84C8 /* GTMaru-Black.otf */ = {isa = PBXFileReference; name = "GTMaru-Black.otf"; path = "../assets/fonts/GTMaru-Black.otf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		A51E4021345944A8A78BCF14 /* GTMaru-Bold.otf */ = {isa = PBXFileReference; name = "GTMaru-Bold.otf"; path = "../assets/fonts/GTMaru-Bold.otf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		ABA535329B88476BB3E15C61 /* GTMaru-Medium.otf */ = {isa = PBXFileReference; name = "GTMaru-Medium.otf"; path = "../assets/fonts/GTMaru-Medium.otf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		8CDAA394791C497484922446 /* BonaNova-Bold.ttf */ = {isa = PBXFileReference; name = "BonaNova-Bold.ttf"; path = "../assets/fonts/BonaNova-Bold.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		DAC42F080F1A4034BCE24F18 /* BonaNova-Regular.ttf */ = {isa = PBXFileReference; name = "BonaNova-Regular.ttf"; path = "../assets/fonts/BonaNova-Regular.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		2C6CD8A7621D482E9FF4625D /* GTMaru-Regular.otf */ = {isa = PBXFileReference; name = "GTMaru-Regular.otf"; path = "../assets/fonts/GTMaru-Regular.otf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -168,13 +168,13 @@
 		539C0D7C96E2414A989159CB /* Resources */ = {
 			isa = "PBXGroup";
 			children = (
-				018CB3D4F0A645B0920EE96B /* GT-Maru-Medium-Oblique.otf */,
-				6C2D9D7F5A3D4E9CA494953C /* GTMaru-Black.otf */,
-				A8CC142C3B5B499EAE3CC473 /* GTMaru-Bold.otf */,
-				21E25928D32A4087AB64FB32 /* GTMaru-Medium.otf */,
-				083030E17E4B49ECB44D59EF /* GTMaru-Regular.otf */,
-				90F96369F7384C2EA65934C7 /* BonaNova-Bold.ttf */,
-				17B6F38E1DA14DDE8299A5C8 /* BonaNova-Regular.ttf */,
+				869645136E474EA98A93DBDD /* GT-Maru-Medium-Oblique.otf */,
+				F74639F22D4E443D992C84C8 /* GTMaru-Black.otf */,
+				A51E4021345944A8A78BCF14 /* GTMaru-Bold.otf */,
+				ABA535329B88476BB3E15C61 /* GTMaru-Medium.otf */,
+				8CDAA394791C497484922446 /* BonaNova-Bold.ttf */,
+				DAC42F080F1A4034BCE24F18 /* BonaNova-Regular.ttf */,
+				2C6CD8A7621D482E9FF4625D /* GTMaru-Regular.otf */,
 			);
 			name = Resources;
 			sourceTree = "<group>";
@@ -275,13 +275,13 @@
 			files = (
 				81AB9BB82411601600AC10FF /* LaunchScreen.storyboard in Resources */,
 				13B07FBF1A68108700A75B9A /* Images.xcassets in Resources */,
-				5644F3577AB74A5AA4465FB2 /* GT-Maru-Medium-Oblique.otf in Resources */,
-				42D2F7755CA944EF8D89B508 /* GTMaru-Black.otf in Resources */,
-				8BFE71FC746B4B658EB40FB2 /* GTMaru-Bold.otf in Resources */,
-				DE0B23197ED14EB78B6307A5 /* GTMaru-Medium.otf in Resources */,
-				B1E4033789EA43A9949C03DE /* GTMaru-Regular.otf in Resources */,
-				3AE49FEA8DF541A0AFA5FF28 /* BonaNova-Bold.ttf in Resources */,
-				4874512E256E4D03960CA7AD /* BonaNova-Regular.ttf in Resources */,
+				4B6B588DDD6B423EA9B938F3 /* GT-Maru-Medium-Oblique.otf in Resources */,
+				C1E1A7A48637425AAAA1DAB0 /* GTMaru-Black.otf in Resources */,
+				A60F29063B1446A3844C25D2 /* GTMaru-Bold.otf in Resources */,
+				D9B74707DBE642D68BA6B087 /* GTMaru-Medium.otf in Resources */,
+				02B1FC82BF754D37B0DD8D79 /* BonaNova-Bold.ttf in Resources */,
+				AF82177857074705BE4F9812 /* BonaNova-Regular.ttf in Resources */,
+				2658692FB9BC478FBB406947 /* GTMaru-Regular.otf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
